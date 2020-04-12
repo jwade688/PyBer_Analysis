@@ -20,6 +20,8 @@ Create an overall snapshot of Pyber's ride-sharing data.
 - Implications:
     - There is greater demand for rides in more densely populated area, but there are also a much larger supply of drivers available. In rural areas there is almost a 2 to 1 ratio of rides to drivers compared to urban areas where it's the opposite, closer to a 1 to 3 ratio of rides to drivers. This means that each fare will be cheaper for the rider but also less profitable for driver in an urban area than compared to a rural area. Even though each driver is bringing in more money per ride in rural areas, the total rural fares brought in is far less than in urban areas.
     - Unlike the balance in urban areas, in both rural and suburan areas, there are less drivers than rides given. I would recommend increasing the number of rural and suburban drivers available to see if the demand for total rides increases and thus brings more PyBer more fare money. 
+    - The average fare cost is much higher in rural and suburan areas than urban areas. It would be valuable to know if the this limited by the number of drivers available and if this is limiting the demand for Pyber. 
+    - Overall, I believe we could optimize the number of drivers available and the cost of the average fare to increase demand and total fare money brought to PyBer.
 
 # Analysis of the sum of fares for each city type:
 - In the first half of 2019:
